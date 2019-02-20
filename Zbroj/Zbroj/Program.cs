@@ -10,6 +10,7 @@ namespace Zbroj
     {
         static void Main(string[] args)
         {
+            //
             Console.WriteLine("program 2");
         }
     }
