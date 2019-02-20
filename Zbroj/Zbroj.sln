@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zbroj", "Zbroj\Zbroj.csproj", "{CBF19215-B20F-40BB-BD9F-3DBED2C9C5BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF19215-B20F-40BB-BD9F-3DBED2C9C5BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF19215-B20F-40BB-BD9F-3DBED2C9C5BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF19215-B20F-40BB-BD9F-3DBED2C9C5BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF19215-B20F-40BB-BD9F-3DBED2C9C5BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F42B2BB-9079-4F65-903B-27481DE0ED07}
+	EndGlobalSection
+EndGlobal
