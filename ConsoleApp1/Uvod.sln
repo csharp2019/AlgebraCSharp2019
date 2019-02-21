@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{31F30331-D9D7-4529-9C4C-B096F2654F21}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uvodni", "ConsoleApp1\Uvodni.csproj", "{31F30331-D9D7-4529-9C4C-B096F2654F21}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zbroj", "Zbroj\Zbroj.csproj", "{C72F648D-610F-4C09-90AE-BB2DD90A29D2}"
 EndProject
