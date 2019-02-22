@@ -8,11 +8,13 @@ namespace zbroj_razlika
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
             int a=0, b = 0;
 
-            Console.WriteLine("Unesi 1. broj");
+
+            Console.WriteLine(@"Unesi 1. broj\n\n\n\tjhjk\\as\'hd\jkh\tkkskd\tkk");
             a = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Unesi 2. broj");
@@ -27,6 +29,8 @@ namespace zbroj_razlika
             Console.WriteLine("Umnožak je:{0}", a * b);
 
             Console.WriteLine("Kvocijent je:{0}", (decimal)a/(decimal)b);
+
+            
 
             Console.ReadLine();
         }
