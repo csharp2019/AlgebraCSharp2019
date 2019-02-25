@@ -7,7 +7,7 @@
     <ProjectGuid>{F452E0A6-FCB3-4519-9F1B-F4E60F7081EB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_5._2._3.exceptio_primjer</RootNamespace>
-    <AssemblyName>_5._2._3.exceptio_primjer</AssemblyName>
+    <AssemblyName>5.2.3.exceptio_primjer</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
