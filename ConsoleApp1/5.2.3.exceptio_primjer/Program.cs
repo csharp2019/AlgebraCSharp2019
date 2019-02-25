@@ -30,18 +30,22 @@ namespace _5._2._3.exceptio_primjer
 
 
             }
-            catch(FormatException fex)
+            catch (FormatException fex)
             {
-                Console.WriteLine("GREŠKA, pogrešan format:" 
+                Console.WriteLine("GREŠKA, Nije unešen numerički znak:"
                     + fex.Message
                     + "\n"
                     + fex.ToString());
             }
             catch (Exception ex)
             {
-                Console.WriteLine("GREŠKA, generička:" + ex.Message);
+                Console.WriteLine("GREŠKA, generička:" + ex.Message+ex.ToString());
             }
-            Console.ReadKey();
+            finally
+            {
+             Console.ReadKey();
+            }
+            
         }
     }
 }
