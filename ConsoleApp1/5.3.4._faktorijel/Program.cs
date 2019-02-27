@@ -56,8 +56,7 @@ namespace _5._3._4._faktorijel
         {
         }
 
-        public NegativeNumberException(string message)
-            : base(message)
+        public NegativeNumberException(string message) : base(message)
         {
             Console.WriteLine("Dodatno custom pojašnjenje klase NegativeNumberException");
         }
@@ -73,13 +72,11 @@ namespace _5._3._4._faktorijel
         {
         }
 
-        public VeciOdDvajstException(string message)
-            : base(message)
+        public VeciOdDvajstException(string message) : base(message)
         {
         }
 
-        public VeciOdDvajstException(string message, Exception inner)
-            : base(message, inner)
+        public VeciOdDvajstException(string message, Exception inner) : base(message, inner)
         {
         }
     }
