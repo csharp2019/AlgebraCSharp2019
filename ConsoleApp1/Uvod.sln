@@ -45,6 +45,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.4._faktorijel", "5.3.4.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.5_djeljivi_u _intervalu_plus_exception", "5.3.5_djeljivi_u _intervalu_plus_exception\5.3.5_djeljivi_u _intervalu_plus_exception.csproj", "{220BBFE6-D2FD-4B78-AA42-33D812A02EE5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A662F54B-D953-4B17-83D9-A31CF11CED60}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
