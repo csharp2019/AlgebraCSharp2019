@@ -74,6 +74,13 @@ namespace Petlje_primjeri
 
             }
 
+            //Suma prvih 100
+            Console.WriteLine("\n\nSuma prvih 100");
+            int suma = 0;
+            for (int i = 0; i < 5; i++)
+            {
+                Console.Write("{0} ", suma+=i);
+            }
 
 
 
