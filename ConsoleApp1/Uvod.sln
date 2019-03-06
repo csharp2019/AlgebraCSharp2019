@@ -110,6 +110,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.2.8_fakt", "7.2.8_fakt\7.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.2.10_ukupna_cijena", "7.2.10_ukupna_cijena\7.2.10_ukupna_cijena.csproj", "{8F3019D7-4130-49E7-BA83-EBF9CF188417}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1.2_Prirucnuik", "8.1.2_Prirucnuik\8.1.2_Prirucnuik.csproj", "{451D98C4-5D62-4F7A-A2F0-A386A3AC057A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -292,6 +294,10 @@ Global
 		{8F3019D7-4130-49E7-BA83-EBF9CF188417}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F3019D7-4130-49E7-BA83-EBF9CF188417}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F3019D7-4130-49E7-BA83-EBF9CF188417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{451D98C4-5D62-4F7A-A2F0-A386A3AC057A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451D98C4-5D62-4F7A-A2F0-A386A3AC057A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451D98C4-5D62-4F7A-A2F0-A386A3AC057A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451D98C4-5D62-4F7A-A2F0-A386A3AC057A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
