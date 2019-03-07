@@ -46,6 +46,7 @@
     <Compile Include="Nastavnik.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ToUpper.cs" />
     <Compile Include="Ucenik.cs" />
   </ItemGroup>
   <ItemGroup>
