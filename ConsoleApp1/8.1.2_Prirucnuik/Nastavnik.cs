@@ -17,9 +17,21 @@
             return "Nastavnik je osoba koja predaje u obrazovnim ustanovama";
             
         }
+        /// <summary>
+        /// Ovo dohvaća koeficijent za izračun plaće
+        /// 
+        /// </summary>
+        /// <returns>nekifloat</returns>
         public static float Koeficijent()
         {
             return 1.5f;
+        }
+        public override string ToString()
+        {
+            return "Moje ime je " 
+                + this.Ime 
+                + " a moj oib je: " 
+                + this.PartialOib+"*********";
         }
     }
 }
