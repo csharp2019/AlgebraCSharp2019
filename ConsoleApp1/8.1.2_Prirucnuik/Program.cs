@@ -13,7 +13,7 @@ namespace _8._1._2_Prirucnuik
             // instanciraj novi objekt klase Ucenik
             Ucenik uc1 = new Ucenik();
 
-       
+
 
 
             // inicijalizacija objekta
@@ -33,27 +33,31 @@ namespace _8._1._2_Prirucnuik
             uc1.ocjenaIzEngleskog = int.Parse(Console.ReadLine());
 
 
-            Console.WriteLine("Prosjek je: "+uc1.Prosjek());
+            Console.WriteLine("Prosjek je: " + uc1.Prosjek());
 
 
 
             // instanciraj novi objekt klase Ucenik
             Ucenik uc2 = new Ucenik("Perica");
+            /*
+             * 
+             * 
+             * 
+             * */
 
+            Console.WriteLine("Ime ucenika je " + uc1.ime + " i " + uc2.ime);
 
-            Console.WriteLine("Ime ucenika je "+uc1.ime+" i "+uc2.ime);
-
-            //List<Ucenik> ucenici = new List<Ucenik>();  // moze i ovako
+            // List<Ucenik> ucenici = new List<Ucenik>();  // moze i ovako
             List<Ucenik> ucenici = new List<Ucenik> { uc1, uc2 };
             ucenici.Add(uc1);
             ucenici.Add(uc2);
-            
+
             //ucenici.Add({ uc1,uc2});
             foreach (var item in ucenici)
             {
                 Console.WriteLine(item);
             }
-   
+
 
 
 
