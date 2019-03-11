@@ -14,7 +14,7 @@ namespace _8._1._3_zaposlenik
            // Novi objekt Zaposlenik
            // Zaposlenik Z1 = new Zaposlenik("Josip", "Josipovic", "8788593686856");
            // Zaposlenik Z2 = new Zaposlenik("Luka", "Lukovsipovic");
-            
+           
            // List<Zaposlenik> listaZaposlenika = new List<Zaposlenik>();
            // listaZaposlenika.Add(Z1);
            // listaZaposlenika.Add(Z2);
