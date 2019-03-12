@@ -1,6 +1,6 @@
 ﻿namespace _8._1._2_Automobil
 {
-    internal class Automobil
+    public class Automobil
     {
         // Polja
         public string MarkaAutomobila = "";
