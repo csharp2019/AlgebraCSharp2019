@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ispit.cs" />
+    <Compile Include="IUcenik.cs" />
     <Compile Include="Osoba.cs" />
     <Compile Include="Pilot.cs" />
     <Compile Include="Program.cs" />

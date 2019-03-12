@@ -1,7 +1,7 @@
 ﻿using System;
 namespace _8._3._1_nasljedjivanje
 {
-    internal class Ucenik:Osoba
+    internal class Ucenik : Osoba, IUcenik
     {
        // private string ime = "";
        // public DateTime datumNastanka;
@@ -9,6 +9,7 @@ namespace _8._3._1_nasljedjivanje
         public int ocjenaIzMatematike = 0;
         public int ocjenaIzEngleskog = 0;
         public int ocjenaIzBiologije = 0;
+        private Ispit prijavljeniIspit;
 
         // ovaj radi samo kod dirktnog poziva:
         // Ucenik u99=new Ucenik();
@@ -29,7 +30,13 @@ namespace _8._3._1_nasljedjivanje
             this.prezime = prez;
         }
 
-        internal double Prosjek()
+        public void PrijaviIspit(Ispit ispit)
+        {
+            this.prijavljeniIspit = ispit;
+            Console.WriteLine("Uspješno ste prijavili ispit " + this.prijavljeniIspit.Naziv);
+        }
+
+        public double Prosjek()
         {
             double prosjek = 0;
             prosjek = (double)(ocjenaIzBiologije + ocjenaIzEngleskog + ocjenaIzMatematike) / 3;
