@@ -49,6 +49,7 @@
     <Compile Include="Pilot.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Studenti.cs" />
     <Compile Include="Ucenik.cs" />
     <Compile Include="Vozac.cs" />
   </ItemGroup>
