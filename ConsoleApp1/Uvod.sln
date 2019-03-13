@@ -143,6 +143,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primjer_BusinessLayer", "Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operateri", "Operateri\Operateri.csproj", "{60A592B4-AF7B-447F-9043-0B7E5EC2469E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8.5_dogadjaji", "8.5_dogadjaji", "{15A1E730-236D-48EF-A786-E93F9C1FDE8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.5.1_eventi", "8.5.1_eventi\8.5.1_eventi.csproj", "{36CF50A0-BA08-43F6-A4CD-92C0587BFCF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -369,6 +373,10 @@ Global
 		{60A592B4-AF7B-447F-9043-0B7E5EC2469E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60A592B4-AF7B-447F-9043-0B7E5EC2469E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60A592B4-AF7B-447F-9043-0B7E5EC2469E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36CF50A0-BA08-43F6-A4CD-92C0587BFCF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36CF50A0-BA08-43F6-A4CD-92C0587BFCF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36CF50A0-BA08-43F6-A4CD-92C0587BFCF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36CF50A0-BA08-43F6-A4CD-92C0587BFCF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -426,6 +434,7 @@ Global
 		{0B8CCD4C-A918-45FD-B46F-CF6904D0D8A3} = {8B55EECF-49E2-40DC-9369-1B22EF877F5A}
 		{AAC545C8-0392-495A-B0AA-7DA45FC2E8E6} = {8B55EECF-49E2-40DC-9369-1B22EF877F5A}
 		{60A592B4-AF7B-447F-9043-0B7E5EC2469E} = {8B55EECF-49E2-40DC-9369-1B22EF877F5A}
+		{36CF50A0-BA08-43F6-A4CD-92C0587BFCF2} = {15A1E730-236D-48EF-A786-E93F9C1FDE8B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75EC4551-BDDA-44DC-B093-1C3F4BA400C8}
