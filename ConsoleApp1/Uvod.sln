@@ -155,6 +155,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10.1_datoteke", "10.1_datot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.1.1_datoteke", "10.1.1_datoteke\10.1.1_datoteke.csproj", "{4753886E-7074-4843-8443-22EECE03FB5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.1.2_datoteke_dirs", "10.1.2_datoteke_dirs\10.1.2_datoteke_dirs.csproj", "{9F27B42F-9ABC-4A14-B2AD-005EA1099B9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -393,6 +395,10 @@ Global
 		{4753886E-7074-4843-8443-22EECE03FB5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4753886E-7074-4843-8443-22EECE03FB5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4753886E-7074-4843-8443-22EECE03FB5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F27B42F-9ABC-4A14-B2AD-005EA1099B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F27B42F-9ABC-4A14-B2AD-005EA1099B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F27B42F-9ABC-4A14-B2AD-005EA1099B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F27B42F-9ABC-4A14-B2AD-005EA1099B9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -453,6 +459,7 @@ Global
 		{36CF50A0-BA08-43F6-A4CD-92C0587BFCF2} = {15A1E730-236D-48EF-A786-E93F9C1FDE8B}
 		{43688305-CF07-45C2-8669-8DA68E436EB9} = {B26E452A-B350-4F13-B0B8-A96027850782}
 		{4753886E-7074-4843-8443-22EECE03FB5C} = {C217FD8B-15BA-4074-9A11-34EEE75FE387}
+		{9F27B42F-9ABC-4A14-B2AD-005EA1099B9A} = {C217FD8B-15BA-4074-9A11-34EEE75FE387}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75EC4551-BDDA-44DC-B093-1C3F4BA400C8}
