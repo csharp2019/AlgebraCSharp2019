@@ -173,6 +173,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "13.1_enum", "13.1_enum", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.1_enumeracije", "13.1_enumeracije\13.1_enumeracije.csproj", "{121A5813-9827-4A59-A0B5-2786C1B9550D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "14.1_ponavljanje", "14.1_ponavljanje", "{B038E74D-7970-4C1B-9DDB-984561B2B2BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.1.1._ponavljanje_racun", "14.1.1._ponavljanje_racun\14.1.1._ponavljanje_racun.csproj", "{2E9566F8-0BE4-4C8A-8D23-9ECEA58FC324}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -435,6 +439,10 @@ Global
 		{121A5813-9827-4A59-A0B5-2786C1B9550D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{121A5813-9827-4A59-A0B5-2786C1B9550D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{121A5813-9827-4A59-A0B5-2786C1B9550D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E9566F8-0BE4-4C8A-8D23-9ECEA58FC324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9566F8-0BE4-4C8A-8D23-9ECEA58FC324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9566F8-0BE4-4C8A-8D23-9ECEA58FC324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E9566F8-0BE4-4C8A-8D23-9ECEA58FC324}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -501,6 +509,7 @@ Global
 		{4365D680-0E56-40E8-B625-B8088B0168D8} = {20C4062A-C237-4C3C-829A-0146A6B4111A}
 		{DB11172D-D085-4B85-89E9-2BFFD76D59CB} = {20C4062A-C237-4C3C-829A-0146A6B4111A}
 		{121A5813-9827-4A59-A0B5-2786C1B9550D} = {8922FFF0-0908-4248-BA69-D78B10D7DFBD}
+		{2E9566F8-0BE4-4C8A-8D23-9ECEA58FC324} = {B038E74D-7970-4C1B-9DDB-984561B2B2BF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75EC4551-BDDA-44DC-B093-1C3F4BA400C8}
