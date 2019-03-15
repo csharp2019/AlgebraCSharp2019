@@ -169,6 +169,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.1.1_datetime", "12.1.1_d
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.2.1_timespan", "12.2.1_timespan\12.2.1_timespan.csproj", "{DB11172D-D085-4B85-89E9-2BFFD76D59CB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "13.1_enum", "13.1_enum", "{8922FFF0-0908-4248-BA69-D78B10D7DFBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.1_enumeracije", "13.1_enumeracije\13.1_enumeracije.csproj", "{121A5813-9827-4A59-A0B5-2786C1B9550D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -427,6 +431,10 @@ Global
 		{DB11172D-D085-4B85-89E9-2BFFD76D59CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB11172D-D085-4B85-89E9-2BFFD76D59CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB11172D-D085-4B85-89E9-2BFFD76D59CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{121A5813-9827-4A59-A0B5-2786C1B9550D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{121A5813-9827-4A59-A0B5-2786C1B9550D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{121A5813-9827-4A59-A0B5-2786C1B9550D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{121A5813-9827-4A59-A0B5-2786C1B9550D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -492,6 +500,7 @@ Global
 		{2B4C8B35-D7A3-4872-8B8C-43E50227CBF4} = {07A8F730-A368-41FE-AFE3-0A161516C493}
 		{4365D680-0E56-40E8-B625-B8088B0168D8} = {20C4062A-C237-4C3C-829A-0146A6B4111A}
 		{DB11172D-D085-4B85-89E9-2BFFD76D59CB} = {20C4062A-C237-4C3C-829A-0146A6B4111A}
+		{121A5813-9827-4A59-A0B5-2786C1B9550D} = {8922FFF0-0908-4248-BA69-D78B10D7DFBD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75EC4551-BDDA-44DC-B093-1C3F4BA400C8}
